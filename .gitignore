@@ -1,0 +1,21 @@
+# Data
+data/raw/
+data/processed/*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Model artefacts (large)
+models/*.pkl
+
+# VS Code / PyCharm
+.vscode/
+.idea/
